@@ -8,7 +8,7 @@ Node.js
 Playwright
 Installing
 
-Clone the repository: git clone https://github.com/amiina0901/playwright-Tests cd your-repo
+Clone the repository: git clone `https://github.com/amiina0901/playwright-Tests` cd your-repo
 
 Install dependencies: npm install
 
